@@ -1,2 +1,2 @@
-# Data_Acquisition
-TUGAS_MODUL_1
+## Data_Acquisition
+# Mengapa reproducibility penting dalam akuisisi data, sertakan satu contoh kasus nyata.
